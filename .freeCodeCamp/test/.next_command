@@ -110,3 +110,9 @@ psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
 ./studet_info.sh
 ./student_info.sh
+ls --color=auto
+touch README.md
+ls --color=auto
+git init
+git commit -m "first commit"
+git add .
