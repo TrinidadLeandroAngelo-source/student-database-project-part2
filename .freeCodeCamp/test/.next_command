@@ -116,3 +116,8 @@ ls --color=auto
 git init
 git commit -m "first commit"
 git add .
+git commit -m "Add student database SQL project"
+git branch -M main
+git remote add origin https://github.com/TrinidadLeandroAngelo-source/student-database-project-part2.git
+git push -u origin main
+git add .
